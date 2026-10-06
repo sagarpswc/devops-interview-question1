@@ -185,7 +185,7 @@ $ echo "Keep learning, keep automating! 🚀"
 > **Last updated:** March 2026 | Covers tools and practices current as of 2026.
 ```
 
-## 🤝 Contributing AQEDAWsaXw4BJYEsAAABn_lem0MAAAGhM9ln11YAevV9TSFVoc5jSWcKITIqGFagXhxmbffOn17tEPRqf2gae2Fyy4dRXBGt_N_DlpWbc1Gho06iJ2W9PTkhSsOTz_FLxgTv4Cm34epTIfS_-33Y92qB
+## 🤝 Contributing
 
 Want to add a new tool or topic? See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
